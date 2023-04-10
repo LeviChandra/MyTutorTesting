@@ -5,16 +5,20 @@
       <map>
         <entry key="..\:/Users/Kenzie/AndroidStudioProjects/MyTutorTesting/app/src/main/res/drawable/bg_gradient.xml" value="0.2985" />
         <entry key="..\:/Users/Kenzie/AndroidStudioProjects/MyTutorTesting/app/src/main/res/drawable/form.xml" value="0.2985" />
+        <entry key="..\:/Users/Kenzie/AndroidStudioProjects/MyTutorTesting/app/src/main/res/drawable/full_name.xml" value="0.2985" />
         <entry key="..\:/Users/Kenzie/AndroidStudioProjects/MyTutorTesting/app/src/main/res/drawable/home.xml" value="0.2985" />
         <entry key="..\:/Users/Kenzie/AndroidStudioProjects/MyTutorTesting/app/src/main/res/drawable/homepage_below.xml" value="0.2985" />
         <entry key="..\:/Users/Kenzie/AndroidStudioProjects/MyTutorTesting/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2985" />
         <entry key="..\:/Users/Kenzie/AndroidStudioProjects/MyTutorTesting/app/src/main/res/drawable/inbox.xml" value="0.2985" />
+        <entry key="..\:/Users/Kenzie/AndroidStudioProjects/MyTutorTesting/app/src/main/res/drawable/nickname.xml" value="0.2985" />
         <entry key="..\:/Users/Kenzie/AndroidStudioProjects/MyTutorTesting/app/src/main/res/drawable/pass.xml" value="0.2985" />
         <entry key="..\:/Users/Kenzie/AndroidStudioProjects/MyTutorTesting/app/src/main/res/drawable/profile.xml" value="0.2985" />
         <entry key="..\:/Users/Kenzie/AndroidStudioProjects/MyTutorTesting/app/src/main/res/drawable/profile2.xml" value="0.2985" />
         <entry key="..\:/Users/Kenzie/AndroidStudioProjects/MyTutorTesting/app/src/main/res/drawable/user.xml" value="0.2985" />
+        <entry key="..\:/Users/Kenzie/AndroidStudioProjects/MyTutorTesting/app/src/main/res/drawable/verified.xml" value="0.2985" />
         <entry key="..\:/Users/Kenzie/AndroidStudioProjects/MyTutorTesting/app/src/main/res/layout/activity_homepage.xml" value="0.35733695652173914" />
         <entry key="..\:/Users/Kenzie/AndroidStudioProjects/MyTutorTesting/app/src/main/res/layout/activity_main.xml" value="0.35733695652173914" />
+        <entry key="..\:/Users/Kenzie/AndroidStudioProjects/MyTutorTesting/app/src/main/res/layout/activity_profile.xml" value="0.35733695652173914" />
         <entry key="..\:/Users/Kenzie/AndroidStudioProjects/MyTutorTesting/app/src/main/res/layout/fragment_home.xml" value="0.35733695652173914" />
         <entry key="..\:/Users/Kenzie/AndroidStudioProjects/MyTutorTesting/app/src/main/res/menu/bottom_nav_menu.xml" value="0.36666666666666664" />
       </map>
