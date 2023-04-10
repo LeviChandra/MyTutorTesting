@@ -48,10 +48,40 @@
             android:text="Testing"
             android:textColor="@color/black" />
 
-    </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center">
 
-    <com.google.android.material.bottomnavigation.BottomNavigationView
-        android:layout_width="match_parent"
-        android:layout_height="match_parent" />
+            <Button
+                android:id="@+id/homeButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/white"
+                android:drawableTop="@drawable/home"
+                android:text="Home"
+                android:layout_marginRight="40dp"/>
+
+            <Button
+                android:id="@+id/profileButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/white"
+                android:drawableTop="@drawable/profile2"
+                android:text="Profile"
+                android:layout_marginRight="40dp"/>
+
+            <Button
+                android:id="@+id/inboxButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@color/white"
+                android:drawableTop="@drawable/inbox"
+                android:text="Inbox"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
 
 </LinearLayout>
